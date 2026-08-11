@@ -1,5 +1,7 @@
 [Read this in other languages: Chinese](README_ZH.md)
 
+> **macOS 开机自启（LaunchAgent）配置见 [docs/macos-autostart.md](docs/macos-autostart.md)**
+
 # Jrebel & Jet Brains License Server for Java
 
 A license server for Jrebel & JetBrains products, it also support JRebel for Android and XRebel.
@@ -28,7 +30,7 @@ mvn package
 ```
 then
 ```
-java -jar JrebelLicense-1.0-SNAPSHOT-jar-with-dependencies.jar -p 8081
+java -jar JrebelLicense-1.0-SNAPSHOT-jar-with-dependencies.jar -p 8888
 ```
 default port is 8081.
 

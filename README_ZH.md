@@ -1,5 +1,7 @@
 [English Version](README.md)
 
+> **macOS 开机自启（LaunchAgent）配置见 [docs/macos-autostart.md](docs/macos-autostart.md)**
+
 # 🚀 JRebel & JetBrains 许可证服务器完整部署指南
 
 ## 📝 项目概述
